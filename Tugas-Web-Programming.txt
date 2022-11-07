@@ -1,0 +1,6 @@
+TUGAS WEB PROGRAMMING
+
+- Persiapan
+- Membuat File HTML
+- Membuat Tag di HTML
+- Menyimpan File HTML
