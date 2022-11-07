@@ -4,3 +4,7 @@ TUGAS WEB PROGRAMMING
 - Membuat File HTML
 - Membuat Tag di HTML
 - Menyimpan File HTML
+
+- Pengenalan CSS
+- Menggunakan CSS Framework
+- Membuat Halaman Web
